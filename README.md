@@ -1,6 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Dylan 👋
 
-<!--
+## Languages and tools :
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" width=36px/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width=26px/>
+<img src="https://www.maisonlambot.com/wp-content/uploads/2016/03/js-logo.png" width=37px/>
+
 **Dyl-Richardson/Dyl-Richardson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
