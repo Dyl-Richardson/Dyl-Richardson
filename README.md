@@ -3,7 +3,7 @@ Hey 👋,
 I'm Dylan a Junior Front-End Developer from Belgium 🇧🇪.
 
 ## 📬 Get in touch :
-- LinkedIn: [https://www.linkedin.com/in/dylan-richardson-45068621a/]
+- LinkedIn: https://www.linkedin.com/in/dylan-richardson-45068621a/
 - Discord: Dylan Richardson#5901
 - Email: dylanrichardson1606@gmail.com
 
