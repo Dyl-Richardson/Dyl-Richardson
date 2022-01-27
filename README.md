@@ -1,21 +1,23 @@
-### Hi there, I'm Dylan 👋
+Hey 👋, 
 
-## Languages and tools :
+I'm Dylan a Junior Front-End Developer from Belgium 🇧🇪.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" width=36px/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width=26px/>
-<img src="https://www.maisonlambot.com/wp-content/uploads/2016/03/js-logo.png" width=37px/>
+## 📬 Get in touch :
+- LinkedIn: [https://www.linkedin.com/in/dylan-richardson-45068621a/][1]
+- Discord: Dylan Richardson#5901
+- Email: dylanrichardson1606@gmail.com
 
-**Dyl-Richardson/Dyl-Richardson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🖥️ Languages and tools :
+- HTML
+- CSS
+- JavaScript
+- React
+- Tailwind
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📋 Recent projects :
+### [Amazon-clone](https://github.com/Dyl-Richardson/Amazon-clone) 
+ A simple Amazon clone with Next.js, Tailwind & Firebase
+### [Star-Up](https://github.com/codeKameleon/StartUp_fullstack) 
+mobile first chat app with React & Tailwind
+### [Fake-Store](https://github.com/codeKameleon/e-commerce_fullStack) 
+E-commerce with React
