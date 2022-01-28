@@ -1,3 +1,5 @@
+<img src="https://zupimages.net/up/22/04/a0sk.png" />
+
 Hey 👋, 
 
 I'm Dylan a Junior Front-End Developer from Belgium 🇧🇪.
