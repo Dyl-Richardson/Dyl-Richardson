@@ -18,8 +18,8 @@ I'm Dylan a Junior Front-End Developer from Belgium 🇧🇪.
 
 ## 📋 Recent projects :
 ### [Amazon-clone](https://github.com/Dyl-Richardson/Amazon-clone) 
- A simple Amazon clone with Next.js, Tailwind & Firebase
-### [Star-Up](https://github.com/codeKameleon/StartUp_fullstack) 
-mobile first chat app with React & Tailwind
-### [Fake-Store](https://github.com/codeKameleon/e-commerce_fullStack) 
-E-commerce with React
+ A simple Amazon clone with Next.js, Tailwind, Firebase, Redux & Stripe
+### [Star-Up](https://github.com/Dyl-Richardson/Star-Tup) 
+mobile first chat app with React, Tailwind, Node.js, Express, Mangodb & Socket.io
+### [Fake-Store](https://github.com/Dyl-Richardson/e-commerce_fullStack) 
+E-commerce with React, Node.js, Express & Mangodb
